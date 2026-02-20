@@ -47,3 +47,8 @@ Build a SKU-level dataset for cat and dog toys with monthly revenue estimates, a
 
 ## Notes
 - Revenue outputs are directional estimates and should be triangulated with seller interviews, import data, or paid panels before strategic investment decisions.
+
+## India execution status in this repo
+- Executed with a live-captured SuperTails subset in `data/india_raw_scraped.csv`.
+- Output generated at `data/india_pet_toy_estimates.csv` using `research/run_india_pipeline.py`.
+- Amazon/Flipkart/Blinkit live extraction may require retries or anti-bot/session handling depending on runtime environment.

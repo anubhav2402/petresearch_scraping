@@ -46,3 +46,15 @@ The script uses a configurable heuristic for directional estimates:
   - marketplace/country weighting
 
 This is not audited financial data and should be used for market sizing and prioritization only.
+
+## India execution (current build)
+
+Use this command to run an India-only validation + estimation pass:
+
+```bash
+python research/run_india_pipeline.py \
+  --input data/india_raw_scraped.csv \
+  --output data/india_pet_toy_estimates.csv
+```
+
+This repository now includes an executed India sample file (`data/india_pet_toy_estimates.csv`).
