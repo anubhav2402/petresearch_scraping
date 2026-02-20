@@ -1,0 +1,7 @@
+country,marketplace,brand,sku_name,product_url,image_url,animal_type,price,currency,review_count,rating,best_seller_rank,monthly_units_estimate
+India,Amazon.in,KONG,KONG Classic Dog Toy - Medium,https://www.amazon.in/example-kong,https://images.example.com/kong.jpg,dog,899,INR,12456,4.4,220,
+India,Flipkart,TRIXIE,TRIXIE Rope Tug Toy for Dogs,https://www.flipkart.com/example-trixie,https://images.example.com/trixie.jpg,dog,349,INR,3210,4.2,680,
+India,SuperTails,SuperTails,Plush Squeaky Toy for Puppies,https://supertails.com/example-plush,https://images.example.com/plush.jpg,dog,299,INR,730,4.5,1100,
+US,Amazon.com,Outward Hound,Outward Hound Puzzle Toy Level 2,https://www.amazon.com/example-puzzle,https://images.example.com/puzzle.jpg,dog,14.99,USD,45210,4.6,90,
+US,Amazon.com,Petstages,Catnip Plush Mouse Cat Toy 3-Pack,https://www.amazon.com/example-catnip,https://images.example.com/catnip.jpg,cat,9.49,USD,16750,4.5,155,
+US,Chewy,Nerf Dog,Nerf Dog Tennis Ball Blaster,https://www.chewy.com/example-nerf,https://images.example.com/nerf.jpg,dog,24.99,USD,5900,4.4,980,
