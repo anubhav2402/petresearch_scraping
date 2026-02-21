@@ -1,0 +1,5 @@
+marketplace,category,url,status,rows_collected,notes
+Amazon.in,dog toys,https://www.amazon.in/s?k=dog+toys,blocked_503,0,Service Unavailable page returned in browser runtime
+Amazon.in,cat toys,https://www.amazon.in/s?k=cat+toys,blocked_503,0,Service Unavailable page returned in browser runtime
+SuperTails,dog toys,https://supertails.com/collections/dog-toys,success,6,Product cards collected
+SuperTails,cat toys,https://supertails.com/collections/cat-toys,success,6,Product cards collected

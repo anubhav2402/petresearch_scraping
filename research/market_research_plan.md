@@ -52,3 +52,5 @@ Build a SKU-level dataset for cat and dog toys with monthly revenue estimates, a
 - Executed with a live-captured SuperTails subset in `data/india_raw_scraped.csv`.
 - Output generated at `data/india_pet_toy_estimates.csv` using `research/run_india_pipeline.py`.
 - Amazon/Flipkart/Blinkit live extraction may require retries or anti-bot/session handling depending on runtime environment.
+
+- Collection attempt diagnostics are stored in `data/india_collection_log.csv` for source-level tracking.

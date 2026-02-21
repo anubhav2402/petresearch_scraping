@@ -53,8 +53,12 @@ Use this command to run an India-only validation + estimation pass:
 
 ```bash
 python research/run_india_pipeline.py \
-  --input data/india_raw_scraped.csv \
+  --input data/india_amazon_supertails_raw.csv \
   --output data/india_pet_toy_estimates.csv
 ```
 
-This repository now includes an executed India sample file (`data/india_pet_toy_estimates.csv`).
+This repository includes an executed India starter dataset from Amazon.in + SuperTails collection attempts.
+
+- Raw collected rows: `data/india_amazon_supertails_raw.csv`
+- Collection status log: `data/india_collection_log.csv`
+- Estimated output: `data/india_pet_toy_estimates.csv`
